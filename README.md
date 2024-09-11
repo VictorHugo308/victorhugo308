@@ -1,16 +1,16 @@
-## Hi there 👋
+## Ola, bem vindo ao meu perfil  👋
 
-<!--
-**VictorHugo308/victorhugo308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+o meu nome e victor hugo 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- atualemnte eu estou estudando na alura 
+- atualmente estou aprendendo a linguagem javascript
+- procuro colaborar em aprender a mexer direto no javascript
+
+- ## voce pode entrar em contato comigo  📧
+
+vh104906@gmail.com
+
+@victorhugo308
